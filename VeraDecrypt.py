@@ -1,3 +1,5 @@
+#!/home/anubitux/Tools/Recovery/VeraDecrypt/vdve/bin/python3
+
 import os
 import argparse
 import subprocess
