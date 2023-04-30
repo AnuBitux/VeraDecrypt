@@ -1,4 +1,7 @@
 # VeraDecrypt.py
+
+## This version of the tool has been customized to work with the [AnuBitux](https://anubitux.org) live system. To use it with other environments, please refer to the [main branch](https://github.com/ASeriousMister/VeraDecrypt.py)
+
 Veradecrypt tryes to unlock volumes encrypted with veracrypt trying passwords taken from a desiderd list. It runs under Linux with Python 3.x and needs Veracrypt installed and root privileges. I suggest you to put the script, the volume to decrypt and the password list in the same working directory. You can use the vol_demo and the plist files to test the script in your enviroment.
 
 ![VeraDecrypt_Logo](https://github.com/ASeriousMister/VeraDecrypt.py/blob/main/VDC.png?raw=true)
